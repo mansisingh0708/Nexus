@@ -1,0 +1,17 @@
+<resources>
+    <color name="primary">#D500F9</color>
+    <color name="primary_dark">#4B0082</color>
+    <color name="accent">#00E5FF</color>
+    <color name="bg_dark">#0A0014</color>
+    <color name="bg_dark_start">#250942</color>
+    <color name="surface_dark">#120524</color>
+    <color name="glass_white">#1AFFFFFF</color>
+    <color name="glass_border">#4DFFFFFF</color>
+    <color name="text_high">#FFFFFF</color>
+    <color name="text_med">#A694B7</color>
+    <color name="success_green">#00E676</color>
+    <color name="neon_green">#00FF87</color>
+    
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

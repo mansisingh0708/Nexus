@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background">
+
+    <!-- APP NAME -->
+    <TextView
+        android:id="@+id/appName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ZARIYA"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_high"
+        android:letterSpacing="0.1"
+        android:shadowColor="#80000000"
+        android:shadowDx="2"
+        android:shadowDy="4"
+        android:shadowRadius="10"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
+
+    <!-- TAGLINE -->
+    <TextView
+        android:id="@+id/tagline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Technology that listens before it sees"
+        android:textSize="14sp"
+        android:textColor="@color/text_med"
+        android:layout_below="@id/appName"
+        android:layout_marginTop="8dp"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <solid android:color="#2600FF87"/> <!-- 15% opacity neon green -->
+    <stroke android:width="3dp" android:color="@color/neon_green"/>
+    <size android:width="120dp" android:height="120dp"/>
+</shape>
